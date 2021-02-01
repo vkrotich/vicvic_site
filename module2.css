@@ -1,18 +1,4 @@
-h1{
+.menu-title{
+    align-items: center;
 
-    text-align: center;
 }
-
-
-body{
-
-
-    background-attachment: rgb(235, 228, 228);
-}
-
-p {
-    font-size: 1.5em;
-    margin: 20px;
-    padding: 40px;
-}
- 
