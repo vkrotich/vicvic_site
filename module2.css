@@ -8,6 +8,7 @@
   body {
     font-family: sans-serif;
     font-size: 100%;
+    background-color: aquamarine;
   }
   /********** Container H2 styles for region position on section with margins
   , size, border and !float clearing!********/
